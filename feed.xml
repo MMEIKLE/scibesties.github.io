@@ -2,12 +2,12 @@
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Sci Besties</title>
-    <googleplay:author>Makenzie, Sophia</googleplay:author>
+    <googleplay:author>Makenzie Meikle, Sophia Kvachneva</googleplay:author>
     <rawvoice:rating>TV-PG</rawvoice:rating>
     <rawvoice:location>Florida</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Makenzie, Sophia</author>
-    <itunes:author>Makenzie, Sophia</itunes:author>
+    <author>Makenzie Meikle, Sophia Kvachneva</author>
+    <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
     <itunes:email>makenzie.meikle@gmail.com</itunes:email>
     <itunes:category text="Science"/>
     <image>
@@ -16,7 +16,7 @@
       <link>https://mmeikle.github.io/scibesties.github.io/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Makenzie</itunes:name>
+      <itunes:name>Makenzie Meikle</itunes:name>
       <itunes:email>makenzie.meikle@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>science,besties,facts,misinformation,STEM,women in STEM</itunes:keywords>
@@ -30,8 +30,8 @@
     <link>https://mmeikle.github.io/scibesties.github.io/feed.xml</link>
     <itunes:image href="https://mmeikle.github.io/scibesties.github.io/SciBestiesLogo.png" />
     <item>
-      <author>Makenzie, Sophia </author>
-      <itunes:author>Makenzie, Sophia</itunes:author>
+      <author>Makenzie Meikle, Sophia Kvachneva</author>
+      <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
       <title>Episode 1 - Pilot ; Covid and Vaccines</title>
       <pubDate>Wed, 19 Feb 2025 12:00:00 EST</pubDate>
       <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep1_AntiVaxMovement.mp3" type="audio/mpeg" length="84071628" />
@@ -41,8 +41,8 @@
       <itunes:summary>In the inaugural episode of SciBesties, we tackle misinformation surrounding vaccines and the history of vaccine hesitancy from the industrial revolution to post-COVID. </itunes:summary>
     </item>
     <item>
-      <author>Makenzie, Sophia </author>
-      <itunes:author>Makenzie, Sophia</itunes:author>
+      <author>Makenzie Meikle, Sophia Kvachneva</author>
+      <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
       <title>Episode 2 - Raw Milk and Tuberculosis</title>
       <pubDate>Wed, 26 Feb 2025 12:00:00 EST</pubDate>
       <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep2_RawMilk.mp3" type="audio/mpeg" length="84562663" />

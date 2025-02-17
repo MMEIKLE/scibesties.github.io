@@ -8,43 +8,48 @@
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <author>Makenzie, Sophia</author>
     <itunes:author>Makenzie, Sophia</itunes:author>
-    <itunes:email>andrewchabab@gmail.com</itunes:email>
+    <itunes:email>makenzie.meikle@gmail.com</itunes:email>
     <itunes:category text="Science"/>
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://mmeikle.github.io/scibesties.github.io/SciBestiesLogo.png</url>
+      <title>Sci Besties</title>
+      <link>https://mmeikle.github.io/scibesties.github.io/</link>
     </image>
     <itunes:owner>
       <itunes:name>Makenzie</itunes:name>
-      <itunes:email>andrewchabab@gmail.com</itunes:email>
+      <itunes:email>makenzie.meikle@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>science,hoax,facts,myths</itunes:keywords>
+    <itunes:keywords>science,besties,facts,misinformation,STEM,women in STEM</itunes:keywords>
     <copyright>Sci Besties 2024</copyright>
     <description>Tackling myths and tall tales in the life sciences and more.</description>
     <itunes:summary>Tackling myths and tall tales in the life sciences and more.</itunes:summary>
-    <googleplay:image href="https://chababster.github.io/webpage.github.io/sci_besties.png" />
+    <googleplay:image href="https://mmeikle.github.io/scibesties.github.io/SciBestiesLogo.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://chababster.github.io/webpage.github.io/sci_besties.png" />
+    <pubDate>Sat, 1 Feb 2025 12:00:00 EST</pubDate>
+    <link>https://mmeikle.github.io/scibesties.github.io/feed.xml</link>
+    <itunes:image href="https://mmeikle.github.io/scibesties.github.io/SciBestiesLogo.png" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
+      <author>Makenzie, Sophia </author>
+      <itunes:author>Makenzie, Sophia</itunes:author>
       <title>Episode 1 - Pilot ; Covid and Vaccines</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://chababster.github.io/webpage.github.io/mp3s/episode-1.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 EST</pubDate>
+      <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep1_AntiVaxMovement.mp3" type="audio/mpeg" length="84071628" />
+      <itunes:duration>43:30</itunes:duration>
+      <guid isPermaLink="false">sbpod1</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>
-Makenzie 
-
-Sophia
-
-Episode 1 - Pilot
-        </itunes:summary>
+      <itunes:summary>In the inaugural episode of SciBesties, we tackle misinformation surrounding vaccines and the history of vaccine hesitancy from the industrial revolution to post-COVID. </itunes:summary>
+    </item>
+    <item>
+      <author>Makenzie, Sophia </author>
+      <itunes:author>Makenzie, Sophia</itunes:author>
+      <title>Episode 2 - Raw Milk and Tuberculosis</title>
+      <pubDate>Wed, 26 Feb 2025 12:00:00 EST</pubDate>
+      <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep2_RawMilk.mp3" type="audio/mpeg" length="84562663" />
+      <itunes:duration>43:33</itunes:duration>
+      <guid isPermaLink="false">sbpod2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week, we're talking all about raw milk and the hazards of the new-age health movement. Is raw milk really better for you?</itunes:summary>
     </item>
   </channel>
 </rss>

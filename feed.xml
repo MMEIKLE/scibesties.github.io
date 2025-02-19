@@ -39,6 +39,7 @@
       <guid isPermaLink="false">sbpod1</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>In the inaugural episode of SciBesties, we tackle misinformation surrounding vaccines and the history of vaccine hesitancy from the industrial revolution to post-COVID. </itunes:summary>
+      <description>In the inaugural episode of SciBesties, we tackle misinformation surrounding vaccines and the history of vaccine hesitancy from the industrial revolution to post-COVID. </description>
     </item>
     <item>
       <author>Makenzie Meikle, Sophia Kvachneva</author>
@@ -50,6 +51,7 @@
       <guid isPermaLink="false">sbpod2</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>This week, we're talking all about raw milk and the hazards of the new-age health movement. Is raw milk really better for you?</itunes:summary>
+      <description>This week, we're talking all about raw milk and the hazards of the new-age health movement. Is raw milk really better for you?</description>
     </item>
   </channel>
 </rss>

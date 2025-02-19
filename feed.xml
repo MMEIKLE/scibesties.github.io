@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Sci Besties</title>
+    <title>SciBesties</title>
     <googleplay:author>Makenzie Meikle, Sophia Kvachneva</googleplay:author>
     <rawvoice:rating>TV-PG</rawvoice:rating>
     <rawvoice:location>Florida</rawvoice:location>
@@ -12,14 +12,14 @@
     <itunes:category text="Science"/>
     <image>
       <url>https://mmeikle.github.io/scibesties.github.io/SciBestiesLogo.png</url>
-      <title>Sci Besties</title>
+      <title>SciBesties</title>
       <link>https://mmeikle.github.io/scibesties.github.io/</link>
     </image>
     <itunes:owner>
       <itunes:name>Makenzie Meikle</itunes:name>
       <itunes:email>makenzie.meikle@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>science,besties,facts,misinformation,STEM,women in STEM</itunes:keywords>
+    <itunes:keywords>scibesties,sci besties,science,facts,misinformation,STEM,women in STEM,STEM careers,life science</itunes:keywords>
     <copyright>Sci Besties 2024</copyright>
     <description>Tackling myths and tall tales in the life sciences and more.</description>
     <itunes:summary>Tackling myths and tall tales in the life sciences and more.</itunes:summary>
@@ -33,7 +33,7 @@
       <author>Makenzie Meikle, Sophia Kvachneva</author>
       <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
       <title>Episode 1 - Pilot ; Covid and Vaccines</title>
-      <pubDate>Wed, 19 Feb 2025 12:00:00 EST</pubDate>
+      <pubDate>Wed, 12 Feb 2025 12:00:00 EST</pubDate>
       <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep1_AntiVaxMovement.mp3" type="audio/mpeg" length="84071628" />
       <itunes:duration>43:30</itunes:duration>
       <guid isPermaLink="false">sbpod1</guid>
@@ -44,7 +44,7 @@
       <author>Makenzie Meikle, Sophia Kvachneva</author>
       <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
       <title>Episode 2 - Raw Milk and Tuberculosis</title>
-      <pubDate>Wed, 26 Feb 2025 12:00:00 EST</pubDate>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 EST</pubDate>
       <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep2_RawMilk.mp3" type="audio/mpeg" length="84562663" />
       <itunes:duration>43:33</itunes:duration>
       <guid isPermaLink="false">sbpod2</guid>

@@ -53,5 +53,17 @@
       <itunes:summary>This week, we're talking all about raw milk and the hazards of the new-age health movement. Is raw milk really better for you?</itunes:summary>
       <description>This week, we're talking all about raw milk and the hazards of the new-age health movement. Is raw milk really better for you?</description>
     </item>
+    <item>
+      <author>Makenzie Meikle, Sophia Kvachneva</author>
+      <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
+      <title>Episode 3 - Why are people scared of GMOs?</title>
+      <pubDate>Wed, 26 Feb 2025 16:00:00 EST</pubDate>
+      <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep3_GMOs.mp3" type="audio/mpeg" length="98446463" />
+      <itunes:duration>50:41</itunes:duration>
+      <guid isPermaLink="false">sbpod3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This episode is all about GMO's or Genetically Modified Organisms. We explore what makes a GMO and how they affect human health and the environment.</itunes:summary>
+      <description>This episode is all about GMO's or Genetically Modified Organisms. We explore what makes a GMO and how they affect human health and the environment.</description>
+    </item>
   </channel>
 </rss>

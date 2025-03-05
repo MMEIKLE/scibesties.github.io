@@ -65,5 +65,17 @@
       <itunes:summary>This episode is all about GMO's or Genetically Modified Organisms. We explore what makes a GMO and how they affect human health and the environment.</itunes:summary>
       <description>This episode is all about GMO's or Genetically Modified Organisms. We explore what makes a GMO and how they affect human health and the environment.</description>
     </item>
+    <item>
+      <author>Makenzie Meikle, Sophia Kvachneva</author>
+      <itunes:author>Makenzie Meikle, Sophia Kvachneva</itunes:author>
+      <title>Episode 4 - On Being a Woman in STEM</title>
+      <pubDate>Wed, 5 March 2025 16:00:00 EST</pubDate>
+      <enclosure url="https://mmeikle.github.io/scibesties.github.io/SciBesties_Ep4_WIS.mp3" type="audio/mpeg" length="104860807" />
+      <itunes:duration>54:05</itunes:duration>
+      <guid isPermaLink="false">sbpod4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This week we highlight some of the most influential women in STEM fields and discuss the stereotypes and bias that come with being a woman in STEM.</itunes:summary>
+      <description>This week we highlight some of the most influential women in STEM fields and discuss the stereotypes and bias that come with being a woman in STEM.</description>
+    </item>
   </channel>
 </rss>
